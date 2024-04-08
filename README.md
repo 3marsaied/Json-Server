@@ -6,7 +6,9 @@ https://nodejs.org/en/download/current
 
 #Check if the npm install correctly
 open cmd and run ' npm --version '
+
 ![image](https://github.com/3marsaied/Json-Server/assets/74738267/a4081b16-1174-4688-a571-9f9268b16592)
+
 
 #Download yarn
 in cmd run ' npm install -g yarn '
