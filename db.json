@@ -1,263 +1,54 @@
 {
-    "subreddits": [
-      {
-        "id": 1,
-        "name": "Gamers Field",
-        "description": "This community is for gamers",
-        "createdAt": "2000-01-23T04:56:07.000+00:00",
-        "NFSW": true,
-        "region": "africa",
-        "allowImgAndLinksUploads": true,
-        "allowMultipleImagePerPost": false,
-        "category": 0,
-        "FAQs": [
-          {
-            "question": "Who is Nabil?",
-            "answer": "He is a type of fossils."
-          },
-          {
-            "question": "Are memes allowed?",
-            "answer": "No, memes are not allowed in this community."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "No Memes",
-            "description": "Memes are not allowed."
-          },
-          {
-            "title": "Be Respectful",
-            "description": "Respect other gamers."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 2,
-        "name": "TechTalk",
-        "description": "Discuss the latest in technology.",
-        "createdAt": "2000-02-15T12:30:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": true,
-        "allowMultipleImagePerPost": true,
-        "category": 1,
-        "FAQs": [
-          {
-            "question": "What can I post?",
-            "answer": "You can post articles, discussions, and questions related to technology."
-          },
-          {
-            "question": "Are self-promotions allowed?",
-            "answer": "Self-promotion is allowed within reason and must be relevant to the community."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Stay on Topic",
-            "description": "Keep discussions relevant to technology."
-          },
-          {
-            "title": "No Spam",
-            "description": "Do not spam the community with irrelevant content."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 3,
-        "name": "Foodies Club",
-        "description": "A community for food lovers to share recipes and food experiences.",
-        "createdAt": "2000-03-05T08:00:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": true,
-        "allowMultipleImagePerPost": true,
-        "category": 2,
-        "FAQs": [
-          {
-            "question": "What can I post?",
-            "answer": "You can post recipes, food pictures, restaurant recommendations, and food-related discussions."
-          },
-          {
-            "question": "Are advertisements allowed?",
-            "answer": "Advertisements are not allowed unless approved by moderators."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Be Kind",
-            "description": "Be respectful and kind to other members."
-          },
-          {
-            "title": "No Self-Promotion",
-            "description": "Do not promote your own products or services without permission."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 4,
-        "name": "Fitness Zone",
-        "description": "A place to discuss fitness, workouts, and health tips.",
-        "createdAt": "2000-04-10T14:00:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": false,
-        "allowMultipleImagePerPost": false,
-        "category": 3,
-        "FAQs": [
-          {
-            "question": "What topics can I discuss?",
-            "answer": "You can discuss workouts, nutrition, weight loss, and general fitness tips."
-          },
-          {
-            "question": "Are progress pictures allowed?",
-            "answer": "Yes, progress pictures are allowed as long as they are relevant to fitness goals."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Stay Motivated",
-            "description": "Encourage and support each other's fitness journeys."
-          },
-          {
-            "title": "No Medical Advice",
-            "description": "Do not give medical advice; consult a professional for health concerns."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 5,
-        "name": "Artistic Minds",
-        "description": "A community for artists to share their work and discuss art-related topics.",
-        "createdAt": "2000-05-20T16:30:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": true,
-        "allowMultipleImagePerPost": true,
-        "category": 4,
-        "FAQs": [
-          {
-            "question": "What type of art can I share?",
-            "answer": "You can share drawings, paintings, digital art, photography, and more."
-          },
-          {
-            "question": "Can I ask for feedback?",
-            "answer": "Yes, you can ask for feedback on your work."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Respect Artists",
-            "description": "Respect the work and effort of fellow artists."
-          },
-          {
-            "title": "No Plagiarism",
-            "description": "Do not claim someone else's work as your own."
-          }
-        ],
-        "privacyType": "public"
-      }
-    ],
-    "trendingSearches": [
-      {
-        "id": 1,
-        "name": "Health Matters",
-        "description": "Discussions on health, wellness, and medical advancements.",
-        "createdAt": "2000-06-01T10:00:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": false,
-        "allowMultipleImagePerPost": false,
-        "category": 5,
-        "FAQs": [
-          {
-            "question": "What topics are discussed?",
-            "answer": "Health tips, medical news, mental wellness, etc."
-          },
-          {
-            "question": "Are personal stories allowed?",
-            "answer": "Yes, personal stories relevant to health and wellness are welcome."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Be Supportive",
-            "description": "Support each other in their health journeys."
-          },
-          {
-            "title": "No Medical Advice",
-            "description": "Do not provide medical advice without professional qualifications."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 2,
-        "name": "Travel Tales",
-        "description": "Share your travel experiences and get tips for your next adventure.",
-        "createdAt": "2000-06-15T12:00:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": true,
-        "allowMultipleImagePerPost": true,
-        "category": 6,
-        "FAQs": [
-          {
-            "question": "What can I post?",
-            "answer": "You can post travel stories, photos, tips, and recommendations."
-          },
-          {
-            "question": "Are advertisements allowed?",
-            "answer": "Advertisements are not allowed unless relevant to travel-related services."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "Be Respectful",
-            "description": "Respect other travelers and their experiences."
-          },
-          {
-            "title": "No Spam",
-            "description": "Do not spam the community with irrelevant content."
-          }
-        ],
-        "privacyType": "public"
-      },
-      {
-        "id": 3,
-        "name": "Bookworms",
-        "description": "A place for book lovers to discuss their favorite reads.",
-        "createdAt": "2000-06-30T14:00:00.000+00:00",
-        "NFSW": false,
-        "region": "global",
-        "allowImgAndLinksUploads": false,
-        "allowMultipleImagePerPost": false,
-        "category": 7,
-        "FAQs": [
-          {
-            "question": "What topics can I discuss?",
-            "answer": "You can discuss book reviews, recommendations, author discussions, etc."
-          },
-          {
-            "question": "Can I share excerpts?",
-            "answer": "Yes, you can share short excerpts from books for discussion."
-          }
-        ],
-        "communityRules": [
-          {
-            "title": "No Spoilers",
-            "description": "Avoid spoilers or use appropriate tags for spoiler discussions."
-          },
-          {
-            "title": "Be Kind",
-            "description": "Be respectful and kind to fellow book lovers."
-          }
-        ],
-        "privacyType": "public"
-      }
-    ]
-  }
-  
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st Post",
+      "description": "This is the 1st post.",
+      "picture": null,
+      "redditName": "Test1",
+      "redditPic": "https://drive.google.com/file/d/1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf/view?usp=sharing",
+      "voteUP": 500,
+      "commentsNo": 23
+    },
+    {
+      "id": 2,
+      "title": "Amazing Sunset Over the Mountains",
+      "description": "Captured this breathtaking sunset during my hiking trip. Nature at its finest! 🌄",
+      "picture": "https://drive.google.com/file/d/1SrenDt5OMbDbH12eJKTO8avyoCq3P_15/view?usp=sharing",
+      "redditName": "HikerGal",
+      "redditPic": null,
+      "voteUP": 1200,
+      "commentsNo": 45
+    },
+    {
+      "id": 3,
+      "title": "Adorable Puppy Alert! 🐶",
+      "description": "Meet my new furry friend, Luna. She's a bundle of joy!",
+      "picture": null,
+      "redditName": "DogLover123",
+      "redditPic": "https://drive.google.com/file/d/1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP/view?usp=sharing",
+      "voteUP": 800,
+      "commentsNo": 30
+    },
+    {
+      "id": 4,
+      "title": "Thought-Provoking Quote of the Day",
+      "description": "Life is like a book; some chapters are sad, some are exciting, but if you never turn the page, you'll never know what the next chapter holds.",
+      "picture": "https://drive.google.com/file/d/1IKpYU8ppqX5eA4Lk7knLNu92j0ki71Tn/view?usp=sharing",
+      "redditName": "WiseWords",
+      "redditPic": "https://drive.google.com/file/d/1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C/view?usp=sharing",
+      "voteUP": 950,
+      "commentsNo": 55
+    },
+    {
+      "id": 5,
+      "title": "Homemade Chocolate Chip Cookies Recipe 🍪",
+      "description": "Just baked a batch of these gooey, melt-in-your-mouth cookies. Sharing the recipe!",
+      "picture": "https://drive.google.com/file/d/1yFmNCQiAGrpsYkyH0i1q_JMzJDCh6p33/view?usp=sharing",
+      "redditName": "BakingEnthusiast",
+      "redditPic": "https://drive.google.com/file/d/1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw/view?usp=sharing",
+      "voteUP": 700,
+      "commentsNo": 20
+    }
+  ]
+}
