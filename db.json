@@ -58,7 +58,7 @@
       "userName": "john_michal001",
       "password": "john_michal001",
       "Name": "John",
-      "tocken": "johnTocken",
+      "token": "johntoken",
       "profilePic": null
     },
     {
@@ -67,7 +67,7 @@
       "userName": "ahmedayman2005",
       "password": "ahmedayman2005",
       "Name": "Ayman",
-      "tocken": "ahmedTocken",
+      "token": "ahmedtoken",
       "profilePic": null
     },
     {
@@ -76,7 +76,7 @@
       "userName": "mohamed_ali",
       "password": "mohmad_ali",
       "Name": "Mohamed Ali",
-      "tocken": "mohamedTocken",
+      "token": "mohamedtoken",
       "profilePic": null
     }
   ],
