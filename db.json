@@ -275,5 +275,27 @@
     {
       "searchTerm": "Mohamed Ali"
     }
+  ],
+  "trendingTodat": [
+    {
+      "searchTerm": "monk mood",
+      "description": "Explore the tranquil world of monk mood, where simplicity meets serenity. Discover the art of mindfulness, minimalism, and inner peace.",
+      "picture": ""
+    },
+    {
+      "searchTerm": "sustainable fashion",
+      "description": "Embrace eco-conscious style with sustainable fashion! Discover clothing, accessories, and trends that prioritize ethical production, environmental sustainability, and social responsibility.",
+      "picture": "https://example.com/sustainable_fashion_picture.jpg"
+    },
+    {
+      "searchTerm": "plant-based recipes",
+      "description": "Delight your taste buds with plant-based recipes! Explore a world of delicious and nutritious meals crafted from fruits, vegetables, grains, and legumes. From hearty entrees to decadent desserts, discover the joy of plant-based eating.",
+      "picture": "https://example.com/plant_based_recipes_picture.jpg"
+    },
+    {
+      "searchTerm": "mindful meditation",
+      "description": "Nurture your mind, body, and soul with mindful meditation. Cultivate inner peace, reduce stress, and enhance overall well-being through practices like mindfulness, breathwork, and guided meditation.",
+      "picture": "https://example.com/mindful_meditation_picture.jpg"
+    }
   ]
 }
