@@ -203,34 +203,41 @@
   ],
     
   "user": [
-    {
-      "id": 1,
-      "email": "john@gmail.com",
-      "userName": "john_michal001",
-      "password": "john_michal001",
-      "Name": "John",
-      "token": "johntoken",
-      "profilePic": null
-    },
-    {
-      "id": 2,
-      "email": "ahmed@gmail.com",
-      "userName": "ahmedayman2005",
-      "password": "ahmedayman2005",
-      "Name": "Ayman",
-      "token": "ahmedtoken",
-      "profilePic": null
-    },
-    {
-      "id": 3,
-      "email": "mohamed@gmail.com",
-      "userName": "mohamed_ali",
-      "password": "mohmad_ali",
-      "Name": "Mohamed Ali",
-      "token": "mohamedtoken",
-      "profilePic": null
-    }
+      {
+        "id": 1,
+        "email": "john@gmail.com",
+        "userName": "john_michal001",
+        "password": "john_michal001",
+        "Name": "John",
+        "token": "johntoken",
+        "profilePic": null,
+        "created_at": "2024-04-11T12:00:00Z",
+        "karma": 2
+      },
+      {
+        "id": 2,
+        "email": "ahmed@gmail.com",
+        "userName": "ahmedayman2005",
+        "password": "ahmedayman2005",
+        "Name": "Ayman",
+        "token": "ahmedtoken",
+        "profilePic": null,
+        "created_at": "2024-04-11T12:00:00Z",
+        "karma": 1
+      },
+      {
+        "id": 3,
+        "email": "mohamed@gmail.com",
+        "userName": "mohamed_ali",
+        "password": "mohmad_ali",
+        "Name": "Mohamed Ali",
+        "token": "mohamedtoken",
+        "profilePic": null,
+        "created_at": "2024-04-11T12:00:00Z",
+        "karma": 2
+      }
   ],
+
   "community": [
     {
       "communityName": "Gamming one",
