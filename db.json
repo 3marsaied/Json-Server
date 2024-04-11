@@ -37,7 +37,7 @@
       "picture": "https://drive.google.com/uc?export=download&id=1IKpYU8ppqX5eA4Lk7knLNu92j0ki71Tn",
       "redditName": "WiseWords",
       "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
-      "voteUP": 950,
+      "votes": 950,
       "commentsNo": 55
     },
     {
@@ -47,10 +47,161 @@
       "picture": "https://drive.google.com/uc?export=download&id=1yFmNCQiAGrpsYkyH0i1q_JMzJDCh6p33",
       "redditName": "BakingEnthusiast",
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
-      "voteUP": 700,
+      "votes": 700,
+      "commentsNo": 20
+    },
+    {
+      "id": 6,
+      "title": "Thought-Provoking Quote of the Day",
+      "description": "Life is like a book; some chapters are sad, some are exciting, but if you never turn the page, you'll never know what the next chapter holds.",
+      "picture": null,
+      "redditName": "WiseWords",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
+      "votes": 950,
+      "commentsNo": 55
+    },
+    {
+      "id": 7,
+      "title": "Amazing Sunset Over the Mountains",
+      "description": "Captured this breathtaking sunset during my hiking trip. Nature at its finest! 🌄",
+      "picture": "https://drive.google.com/uc?export=download&id=1SrenDt5OMbDbH12eJKTO8avyoCq3P_15",
+      "redditName": "HikerGal",
+      "redditPic": null,
+      "votes": 1200,
+      "commentsNo": 45
+    },
+    {
+      "id": 8,
+      "title": "Adorable Puppy Alert! 🐶",
+      "description": "Meet my new furry friend, Luna. She's a bundle of joy!",
+      "picture": null,
+      "redditName": "DogLover123",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
+      "votes": 800,
+      "commentsNo": 30
+    },
+    {
+      "id": 9,
+      "title": "Homemade Chocolate Chip Cookies Recipe 🍪",
+      "description": "Just baked a batch of these gooey, melt-in-your-mouth cookies. Sharing the recipe!",
+      "picture": "https://drive.google.com/uc?export=download&id=1yFmNCQiAGrpsYkyH0i1q_JMzJDCh6p33",
+      "redditName": "BakingEnthusiast",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
+      "votes": 700,
+      "commentsNo": 20
+    },
+    {
+      "id": 10,
+      "title": "1st Post",
+      "description": "This is the 1st post.",
+      "picture": null,
+      "redditName": "Test1",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
+      "votes": 500,
+      "commentsNo": 23
+    },
+    {
+      "id": 11,
+      "title": "Thought-Provoking Quote of the Day",
+      "description": "Life is like a book; some chapters are sad, some are exciting, but if you never turn the page, you'll never know what the next chapter holds.",
+      "picture": "https://drive.google.com/uc?export=download&id=1IKpYU8ppqX5eA4Lk7knLNu92j0ki71Tn",
+      "redditName": "WiseWords",
+      "redditPic": null,
+      "votes": 950,
+      "commentsNo": 55
+    },
+    {
+      "id": 12,
+      "title": "Adorable Puppy Alert! 🐶",
+      "description": "Meet my new furry friend, Luna. She's a bundle of joy!",
+      "picture": null,
+      "redditName": "DogLover123",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
+      "votes": 800,
+      "commentsNo": 30
+    },
+    {
+      "id": 13,
+      "title": "Amazing Sunset Over the Mountains",
+      "description": "Captured this breathtaking sunset during my hiking trip. Nature at its finest! 🌄",
+      "picture": "https://drive.google.com/uc?export=download&id=1SrenDt5OMbDbH12eJKTO8avyoCq3P_15",
+      "redditName": "HikerGal",
+      "redditPic": null,
+      "votes": 1200,
+      "commentsNo": 45
+    },
+    {
+      "id": 14,
+      "title": "Homemade Chocolate Chip Cookies Recipe 🍪",
+      "description": "Just baked a batch of these gooey, melt-in-your-mouth cookies. Sharing the recipe!",
+      "picture": "https://drive.google.com/uc?export=download&id=1yFmNCQiAGrpsYkyH0i1q_JMzJDCh6p33",
+      "redditName": "BakingEnthusiast",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
+      "votes": 700,
+      "commentsNo": 20
+    },
+    {
+      "id": 15,
+      "title": "1st Post",
+      "description": "This is the 1st post.",
+      "picture": null,
+      "redditName": "Test1",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
+      "votes": 500,
+      "commentsNo": 23
+    },
+    {
+      "id": 16,
+      "title": "Adorable Puppy Alert! 🐶",
+      "description": "Meet my new furry friend, Luna. She's a bundle of joy!",
+      "picture": null,
+      "redditName": "DogLover123",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
+      "votes": 800,
+      "commentsNo": 30
+    },
+    {
+      "id": 17,
+      "title": "Thought-Provoking Quote of the Day",
+      "description": "Life is like a book; some chapters are sad, some are exciting, but if you never turn the page, you'll never know what the next chapter holds.",
+      "picture": "https://drive.google.com/uc?export=download&id=1IKpYU8ppqX5eA4Lk7knLNu92j0ki71Tn",
+      "redditName": "WiseWords",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
+      "votes": 950,
+      "commentsNo": 55
+    },
+    {
+      "id": 18,
+      "title": "Amazing Sunset Over the Mountains",
+      "description": "Captured this breathtaking sunset during my hiking trip. Nature at its finest! 🌄",
+      "picture": "https://drive.google.com/uc?export=download&id=1SrenDt5OMbDbH12eJKTO8avyoCq3P_15",
+      "redditName": "HikerGal",
+      "redditPic": null,
+      "votes": 1200,
+      "commentsNo": 45
+    },
+    {
+      "id": 19,
+      "title": "1st Post",
+      "description": "This is the 1st post.",
+      "picture": null,
+      "redditName": "Test1",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
+      "votes": 500,
+      "commentsNo": 23
+    },
+    {
+      "id": 20,
+      "title": "Homemade Chocolate Chip Cookies Recipe 🍪",
+      "description": "Just baked a batch of these gooey, melt-in-your-mouth cookies. Sharing the recipe!",
+      "picture": "https://drive.google.com/uc?export=download&id=1yFmNCQiAGrpsYkyH0i1q_JMzJDCh6p33",
+      "redditName": "BakingEnthusiast",
+      "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
+      "votes": 700,
       "commentsNo": 20
     }
   ],
+    
   "user": [
     {
       "id": 1,
