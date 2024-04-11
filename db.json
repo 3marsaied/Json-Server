@@ -7,7 +7,7 @@
       "picture": null,
       "redditName": "Test1",
       "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
-      "voteUP": 500,
+      "votes": 500,
       "commentsNo": 23
     },
     {
@@ -17,7 +17,7 @@
       "picture": "https://drive.google.com/uc?export=download&id=1SrenDt5OMbDbH12eJKTO8avyoCq3P_15",
       "redditName": "HikerGal",
       "redditPic": null,
-      "voteUP": 1200,
+      "votes": 1200,
       "commentsNo": 45
     },
     {
@@ -27,7 +27,7 @@
       "picture": null,
       "redditName": "DogLover123",
       "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
-      "voteUP": 800,
+      "votes": 800,
       "commentsNo": 30
     },
     {
@@ -49,6 +49,30 @@
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
       "voteUP": 700,
       "commentsNo": 20
+    }
+  ],
+  
+  "user":[
+    {
+      "userName":"john_michal001"
+    },
+    {
+      "userName":"ahmedayman2005"
+    },
+    {
+      "userName":"mohamed_ali"
+    }
+  ],
+
+  "community":[
+    {
+      "communityName": "Gamming one"
+    },
+    {
+      "communityName": "only you"
+    },
+    {
+      "communityName": "News"
     }
   ]
 }
