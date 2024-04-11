@@ -51,53 +51,70 @@
       "commentsNo": 20
     }
   ],
-  
-  "user":[
+  "user": [
     {
       "id": 1,
-      "userName":"john_michal001",
-      "password":"john_michal001",
+      "email": "john@gmail.com",
+      "userName": "john_michal001",
+      "password": "john_michal001",
       "Name": "John",
       "tocken": "johnTocken",
-      "profilePic":null
+      "profilePic": null
     },
     {
       "id": 2,
-      "userName":"ahmedayman2005",
-      "password":"ahmedayman2005",
+      "email": "ahmed@gmail.com",
+      "userName": "ahmedayman2005",
+      "password": "ahmedayman2005",
       "Name": "Ayman",
       "tocken": "ahmedTocken",
-      "profilePic":null
+      "profilePic": null
     },
     {
       "id": 3,
-      "userName":"mohamed_ali",
-      "password":"mohmad_ali",
+      "email": "mohamed@gmail.com",
+      "userName": "mohamed_ali",
+      "password": "mohmad_ali",
       "Name": "Mohamed Ali",
       "tocken": "mohamedTocken",
-      "profilePic":null
+      "profilePic": null
     }
   ],
-
   "community": [
     {
       "communityName": "Gamming one",
       "Bio": "Welcome to the Gamming one community! 🎮 Here, we're all about gaming enthusiasts coming together to discuss the latest releases, strategies, and everything related to gaming. Join us to level up your gaming experience! Keywords: gaming, enthusiasts, releases, strategies, community",
-      "KeyWords": ["gaming", "enthusiasts", "releases", "strategies", "community"]
+      "KeyWords": [
+        "gaming",
+        "enthusiasts",
+        "releases",
+        "strategies",
+        "community"
+      ]
     },
     {
       "communityName": "only you",
       "Bio": "Welcome to the only you community! 🌟 This community is all about self-discovery, personal growth, and sharing experiences. Whether you're on a journey of self-improvement or simply looking for inspiration, you're in the right place. Let's explore together! Keywords: self-discovery, personal growth, inspiration, community",
-      "KeyWords": ["self-discovery", "personal growth", "inspiration", "community"]
+      "KeyWords": [
+        "self-discovery",
+        "personal growth",
+        "inspiration",
+        "community"
+      ]
     },
     {
       "communityName": "News",
       "Bio": "Welcome to the News community! 📰 Stay informed and engaged with the latest updates from around the world. From breaking news to in-depth analysis, this is the place to be for all things news-related. Join us in the conversation! Keywords: news, updates, breaking news, analysis, community",
-      "KeyWords": ["news", "updates", "breaking news", "analysis", "community"]
+      "KeyWords": [
+        "news",
+        "updates",
+        "breaking news",
+        "analysis",
+        "community"
+      ]
     }
   ],
-
-  "recentlySearched":[
+  "recentlySearched": [
     {
       "searchTerm": "mackbook"
     },
