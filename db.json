@@ -8,7 +8,8 @@
       "redditName": "Test1",
       "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
       "votes": 500,
-      "commentsNo": 23
+      "commentsNo": 23,
+      "creatorId": 2
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "redditName": "HikerGal",
       "redditPic": null,
       "votes": 1200,
-      "commentsNo": 45
+      "commentsNo": 45,
+      "creatorId": 1
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "redditName": "DogLover123",
       "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
       "votes": 800,
-      "commentsNo": 30
+      "commentsNo": 30,
+      "creatorId": 3
     },
     {
       "id": 4,
