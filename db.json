@@ -221,43 +221,67 @@
       "creatorId": null
     }
   ],
-    
   "user": [
-      {
-        "id": 1,
-        "email": "john@gmail.com",
-        "userName": "john_michal001",
-        "password": "john_michal001",
-        "Name": "John",
-        "token": "johntoken",
-        "profilePic": null,
-        "created_at": "2024-04-11T12:00:00Z",
-        "karma": 2
-      },
-      {
-        "id": 2,
-        "email": "ahmed@gmail.com",
-        "userName": "ahmedayman2005",
-        "password": "ahmedayman2005",
-        "Name": "Ayman",
-        "token": "ahmedtoken",
-        "profilePic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
-        "created_at": "2024-04-11T12:00:00Z",
-        "karma": 1
-      },
-      {
-        "id": 3,
-        "email": "mohamed@gmail.com",
-        "userName": "mohamed_ali",
-        "password": "mohmad_ali",
-        "Name": "Mohamed Ali",
-        "token": "mohamedtoken",
-        "profilePic": null,
-        "created_at": "2024-04-11T12:00:00Z",
-        "karma": 5
-      }
+    {
+      "id": 1,
+      "email": "john@gmail.com",
+      "userName": "john_michal001",
+      "password": "john_michal001",
+      "Name": "John",
+      "token": "johntoken",
+      "profilePic": null,
+      "created_at": "2024-04-11T12:00:00Z",
+      "karma": 2,
+      "messages": [
+        {
+          "id": 1,
+          "sender": "john_michal001",
+          "recipient": "ahmedayman2005",
+          "content": "Hello Ayman!",
+          "timestamp": "2024-04-12T12:00:00Z"
+        },
+        {
+          "id": 2,
+          "sender": "ahmedayman2005",
+          "recipient": "john_michal001",
+          "content": "Hi John, how are you?",
+          "timestamp": "2024-04-12T12:05:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "ahmed@gmail.com",
+      "userName": "ahmedayman2005",
+      "password": "ahmedayman2005",
+      "Name": "Ayman",
+      "token": "ahmedtoken",
+      "profilePic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
+      "created_at": "2024-04-11T12:00:00Z",
+      "karma": 1,
+      "messages": [
+        {
+          "id": 3,
+          "sender": "mohamed_ali",
+          "recipient": "ahmedayman2005",
+          "content": "Hey Ayman, how's it going?",
+          "timestamp": "2024-04-12T12:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "email": "mohamed@gmail.com",
+      "userName": "mohamed_ali",
+      "password": "mohmad_ali",
+      "Name": "Mohamed Ali",
+      "token": "mohamedtoken",
+      "profilePic": null,
+      "created_at": "2024-04-11T12:00:00Z",
+      "karma": 5,
+      "messages": []
+    }
   ],
-
   "community": [
     {
       "communityName": "Gamming one",
