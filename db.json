@@ -221,7 +221,7 @@
       "creatorId": null
     }
   ],
-  "user": [
+  "users": [
     {
       "id": 1,
       "email": "john@gmail.com",
@@ -231,7 +231,23 @@
       "token": "johntoken",
       "profilePic": null,
       "created_at": "2024-04-11T12:00:00Z",
-      "karma": 2
+      "karma": 2,
+      "messages": [
+        {
+          "id": 1,
+          "sender": "john_michal001",
+          "recipient": "ahmedayman2005",
+          "content": "Hello Ayman!",
+          "timestamp": "2024-04-12T12:00:00Z"
+        },
+        {
+          "id": 2,
+          "sender": "ahmedayman2005",
+          "recipient": "john_michal001",
+          "content": "Hi John, how are you?",
+          "timestamp": "2024-04-12T12:05:00Z"
+        }
+      ]
     },
     {
       "id": 2,
@@ -242,7 +258,16 @@
       "token": "ahmedtoken",
       "profilePic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
       "created_at": "2024-04-11T12:00:00Z",
-      "karma": 1
+      "karma": 1,
+      "messages": [
+        {
+          "id": 3,
+          "sender": "mohamed_ali",
+          "recipient": "ahmedayman2005",
+          "content": "Hey Ayman, how's it going?",
+          "timestamp": "2024-04-12T12:10:00Z"
+        }
+      ]
     },
     {
       "id": 3,
@@ -265,6 +290,8 @@
       "profilePic": "https://drive.google.com/uc?export=download&id=1A5172vl_iQnSCInfWbfJX6DvJ6KP2Q6b",
       "created_at": "2024-04-11T12:00:00Z",
       "karma": 3
+      "karma": 5,
+      "messages": []
     }
   ],
   "community": [
