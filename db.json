@@ -41,7 +41,8 @@
       "redditName": "WiseWords",
       "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
       "votes": 950,
-      "commentsNo": 55
+      "commentsNo": 55,
+      "creatorId": null
     },
     {
       "id": 5,
@@ -51,7 +52,8 @@
       "redditName": "BakingEnthusiast",
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
       "votes": 700,
-      "commentsNo": 20
+      "commentsNo": 20,
+      "creatorId": null
     },
     {
       "id": 6,
@@ -61,7 +63,8 @@
       "redditName": "WiseWords",
       "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
       "votes": 950,
-      "commentsNo": 55
+      "commentsNo": 55,
+      "creatorId": null
     },
     {
       "id": 7,
@@ -71,7 +74,8 @@
       "redditName": "HikerGal",
       "redditPic": null,
       "votes": 1200,
-      "commentsNo": 45
+      "commentsNo": 45,
+      "creatorId": null
     },
     {
       "id": 8,
@@ -81,7 +85,8 @@
       "redditName": "DogLover123",
       "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
       "votes": 800,
-      "commentsNo": 30
+      "commentsNo": 30,
+      "creatorId": null
     },
     {
       "id": 9,
@@ -91,7 +96,8 @@
       "redditName": "BakingEnthusiast",
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
       "votes": 700,
-      "commentsNo": 20
+      "commentsNo": 20,
+      "creatorId": null
     },
     {
       "id": 10,
@@ -101,7 +107,8 @@
       "redditName": "Test1",
       "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
       "votes": 500,
-      "commentsNo": 23
+      "commentsNo": 23,
+      "creatorId": null
     },
     {
       "id": 11,
@@ -111,7 +118,8 @@
       "redditName": "WiseWords",
       "redditPic": null,
       "votes": 950,
-      "commentsNo": 55
+      "commentsNo": 55,
+      "creatorId": null
     },
     {
       "id": 12,
@@ -121,7 +129,8 @@
       "redditName": "DogLover123",
       "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
       "votes": 800,
-      "commentsNo": 30
+      "commentsNo": 30,
+      "creatorId": null
     },
     {
       "id": 13,
@@ -131,7 +140,8 @@
       "redditName": "HikerGal",
       "redditPic": null,
       "votes": 1200,
-      "commentsNo": 45
+      "commentsNo": 45,
+      "creatorId": null
     },
     {
       "id": 14,
@@ -141,7 +151,8 @@
       "redditName": "BakingEnthusiast",
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
       "votes": 700,
-      "commentsNo": 20
+      "commentsNo": 20,
+      "creatorId": null
     },
     {
       "id": 15,
@@ -151,7 +162,8 @@
       "redditName": "Test1",
       "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
       "votes": 500,
-      "commentsNo": 23
+      "commentsNo": 23,
+      "creatorId": null
     },
     {
       "id": 16,
@@ -161,7 +173,8 @@
       "redditName": "DogLover123",
       "redditPic": "https://drive.google.com/uc?export=download&id=1AIuJz13t8pY4kafVP-ViQsPToMbBSlHP",
       "votes": 800,
-      "commentsNo": 30
+      "commentsNo": 30,
+      "creatorId": null
     },
     {
       "id": 17,
@@ -171,7 +184,8 @@
       "redditName": "WiseWords",
       "redditPic": "https://drive.google.com/uc?export=download&id=1JvyboHF2mfQwu28DlOOy5B-PZ0yQyR0C",
       "votes": 950,
-      "commentsNo": 55
+      "commentsNo": 55,
+      "creatorId": null
     },
     {
       "id": 18,
@@ -181,7 +195,8 @@
       "redditName": "HikerGal",
       "redditPic": null,
       "votes": 1200,
-      "commentsNo": 45
+      "commentsNo": 45,
+      "creatorId": null
     },
     {
       "id": 19,
@@ -191,7 +206,8 @@
       "redditName": "Test1",
       "redditPic": "https://drive.google.com/uc?export=download&id=1kFJW9TL9-kC176c_0S8deFim-8Ukh6Xf",
       "votes": 500,
-      "commentsNo": 23
+      "commentsNo": 23,
+      "creatorId": null
     },
     {
       "id": 20,
@@ -201,7 +217,8 @@
       "redditName": "BakingEnthusiast",
       "redditPic": "https://drive.google.com/uc?export=download&id=1VmMM0rJVVamR1VgB7wFVA3Ufrq1SBEmw",
       "votes": 700,
-      "commentsNo": 20
+      "commentsNo": 20,
+      "creatorId": null
     }
   ],
     
