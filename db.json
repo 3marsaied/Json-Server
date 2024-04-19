@@ -22,7 +22,7 @@
       "votes": 1200,
       "commentsNo": 45,
       "creatorId": 1,
-      "nsfw": true
+      "nsfw": false
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "votes": 950,
       "commentsNo": 55,
       "creatorId": null,
-      "nsfw": true
+      "nsfw": false
     },
     {
       "id": 5,
