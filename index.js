@@ -18,10 +18,15 @@ server.post('/api/auth/login', (req, res) => {
   const {username, password} = req.body;
   const user = users.find(user => user.username === username && user.password === password);
 
-  if (user) {
-    res.status(200).jsonp({accessToken: user.accessToken});
+  if (foundUser) {
+    res.json({
+      access_token: user.accessToken,
+    });
   } else {
-    res.status(401).jsonp({message: 'Invalid username or password'});
+    // Return an error response if the email and password don't match
+    res.status(401).json({
+      error: "Invalid email or password",
+    });
   }
 });
 
