@@ -263,7 +263,7 @@
   ],
   "user": [
     {
-      "id": 1,
+      "id": "1",
       "email": "john@gmail.com",
       "username": "john_michal001",
       "password": "john_michal001",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "ahmed@gmail.com",
       "username": "ahmedayman2005",
       "password": "ahmedayman2005",
@@ -365,7 +365,7 @@
       }
     },
     {
-      "id": 3,
+      "id": "3",
       "email": "mohamed@gmail.com",
       "username": "mohamed_ali",
       "password": "mohmad_ali",
@@ -416,7 +416,7 @@
       }
     },
     {
-      "id": 4,
+      "id": "4",
       "email": "test@gmail.com",
       "username": "jessica ",
       "password": "test1234",
