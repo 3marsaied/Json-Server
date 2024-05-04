@@ -16,7 +16,7 @@ server.use(jsonServer.bodyParser); // Add this line
 server.post('/api/auth/login', (req, res) => {
   const users = router.db.get('user').value();
   const {username, password} = req.body;
-  const user = users.find(user => user.username === username && user.password === password);
+  const user = users.find((user) => user.username === username && user.password === password);
 
   if (foundUser) {
     res.json({
