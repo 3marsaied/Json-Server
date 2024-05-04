@@ -265,7 +265,7 @@
     {
       "id": 1,
       "email": "john@gmail.com",
-      "userName": "john_michal001",
+      "username": "john_michal001",
       "password": "john_michal001",
       "Name": "John",
       "token": "johntoken",
@@ -316,7 +316,7 @@
     {
       "id": 2,
       "email": "ahmed@gmail.com",
-      "userName": "ahmedayman2005",
+      "username": "ahmedayman2005",
       "password": "ahmedayman2005",
       "Name": "Ayman",
       "token": "ahmedtoken",
@@ -367,7 +367,7 @@
     {
       "id": 3,
       "email": "mohamed@gmail.com",
-      "userName": "mohamed_ali",
+      "username": "mohamed_ali",
       "password": "mohmad_ali",
       "Name": "Mohamed Ali",
       "token": "mohamedtoken",
@@ -418,7 +418,7 @@
     {
       "id": 4,
       "email": "test@gmail.com",
-      "userName": "jessica ",
+      "username": "jessica ",
       "password": "test1234",
       "Name": "jessica ",
       "token": "jessicatoken",
