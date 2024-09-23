@@ -1,37 +1,20 @@
-[
-  {
-	"isOnline": true,
-	"isFirstTime": true,
-	"doctorName": "Dr. Smith",
-	"doctorId": 1,
-	"complain": "",
-	"appointmentStatus": ""
-  },
-  {
-	"isOnline": false,
-	"isFirstTime": false,
-	"doctorName": "Dr. Johnson",
-	"doctorId": 2,
-	"complain": "Back pain",
-	"appointmentStatus": "Confirmed"
-  },
-  {
-	"isOnline": true,
-	"isFirstTime": true,
-	"doctorName": "Dr. Williams",
-	"doctorId": 3,
-	"complain": "",
-	"appointmentStatus": "Pending"
-  },
-  {
-	"isOnline": false,
-	"isFirstTime": false,
-	"doctorName": "Dr. Brown",
-	"doctorId": 4,
-	"complain": "Headache",
-	"appointmentStatus": "Cancelled"
-  }
-]
-
-
-
+{
+  "doctors": [
+    {
+      "isOnline": true,
+      "isFirstTime": true,
+      "doctorName": "Dr. Smith",
+      "doctorId": 1,
+      "complain": "",
+      "appointmentStatus": ""
+    },
+    {
+      "isOnline": false,
+      "isFirstTime": false,
+      "doctorName": "Dr. Johnson",
+      "doctorId": 2,
+      "complain": "Back pain",
+      "appointmentStatus": "Confirmed"
+    }
+  ]
+}
