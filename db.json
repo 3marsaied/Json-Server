@@ -1,20 +1,39 @@
 {
-  "doctors": [
+  "users": [
     {
-      "isOnline": true,
-      "isFirstTime": true,
-      "doctorName": "Dr. Smith",
-      "doctorId": 1,
-      "complain": "",
-      "appointmentStatus": ""
+      "id": 1,
+      "username": "omarsaied",
+      "firstName": "Omar",
+      "lastName": "Saied",
+      "email": "omar.gooda02@gmail.com",
+      "phone": "+201015696114",
+      "country": "Egypt"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "userId": 1,
+      "companyName": "Mercedes-Benz",
+      "licensePlate": "ABC 1234",
+      "model": "S-Class",
+      "yearOfProduction": 2025
     },
     {
-      "isOnline": false,
-      "isFirstTime": false,
-      "doctorName": "Dr. Johnson",
-      "doctorId": 2,
-      "complain": "Back pain",
-      "appointmentStatus": "Confirmed"
+      "id": 2,
+      "userId": 1,
+      "companyName": "BMW",
+      "licensePlate": "XYZ 5678",
+      "model": "X5",
+      "yearOfProduction": 2024
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "companyName": "Audi",
+      "licensePlate": "DEF 9012",
+      "model": "A6",
+      "yearOfProduction": 2023
     }
   ]
 }
